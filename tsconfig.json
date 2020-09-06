@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"lib": ["es2020", "esnext"],
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"strict": true,
+		"pretty": true,
+		"noUnusedLocals": true,
+		"noImplicitReturns": true,
+		"sourceMap": true,
+		"outDir": "dist",
+		"declaration": true,
+		"declarationDir": "dist/types"
+	}
+}
